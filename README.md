@@ -17,6 +17,11 @@ cd ~/ros2_ws
 colcon build --packages-select sicaklik_izleyici_py
 source install/setup.bash
 ```
+
+## 📡 Sıcaklık Sensörü Düğümü Çıktısı
+![Sensör Çıktısı](sensor.png)
+
+
 ## ⚠️ Sıcaklık Eşik Aşımı (30°C Üstü) İzleyici Terminal Çıktısı
 
 <img width="786" height="574" alt="izleyici" src="https://github.com/user-attachments/assets/f8400235-3972-4474-b966-94dd8cbac4f1" />
