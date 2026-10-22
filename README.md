@@ -19,7 +19,10 @@ source install/setup.bash
 ```
 
 ## 📡 Sıcaklık Sensörü Düğümü Çıktısı
-![Sensör Çıktısı](sensor.png)
+
+
+<img width="735" height="517" alt="sensor" src="https://github.com/user-attachments/assets/3eb47d80-2041-4895-949b-4ade6d7b6310" />
+
 
 
 ## ⚠️ Sıcaklık Eşik Aşımı (30°C Üstü) İzleyici Terminal Çıktısı
