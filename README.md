@@ -9,3 +9,10 @@ colcon build --packages-select sicaklik_izleyici_py
 source install/setup.bash
 ```
 <img width="786" height="574" alt="izleyici" src="https://github.com/user-attachments/assets/f8400235-3972-4474-b966-94dd8cbac4f1" />
+
+
+
+
+
+## RQT Graph
+![RQT Graph](rqt_graph.png)
